@@ -1,0 +1,9 @@
+# SO-101 Arm Scripts
+# pip install -r requirements.txt
+
+# Core - required for all scripts
+pyserial
+feetech-servo-sdk
+
+# For talk_arm.py (text-to-speech)
+pyttsx3
